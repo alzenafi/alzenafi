@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student who loves assembling hardware like Arduino and building IoT projects, while currently expanding my skills in C++, Python, Ruby, and web development.
+I'm a student who loves assembling hardware like Arduino and building IoT projects, while currently expanding my skills in C++, Python, and web development.
 
 
 ## 🌐 Socials:
